@@ -89,7 +89,7 @@ export default function DashboardPage() {
             </div>
           </div>
 
-          {/* Add form */}
+
           <div className="px-6 py-5 border-b border-gray-100">
             <form onSubmit={handleSubmit(onSubmit)}>
               <div className="flex flex-col md:flex-row gap-2">
