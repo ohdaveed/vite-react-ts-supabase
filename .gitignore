@@ -25,4 +25,11 @@ dist-ssr
 
 .env
 
-bun.lockb
+bun.lock
+.pnp.*
+.cache
+.next
+.out
+.build
+coverage
+.github
